@@ -17,7 +17,7 @@ Get the processed data files from the corresponding `.zip` file and then, unzip 
 - [flickr](https://drive.google.com/file/d/1tZp3EB20fAC27SYWwa-x66_8uGsuU62X/view?usp=sharing)
 - [arxiv, reddit, yelp and amazon2m](https://drive.google.com/drive/folders/14h9JrgR1TAVZVXhhl5rZQVcfmyQTR5kL)
 ### Generate random seed nodes
-You may use the randomly generated seed nodes to reproduce our results and you may also generate them using `attr_graphs/groundtruth.py`.
+You may use the randomly generated seed nodes used in our experiments to reproduce our results and you may also generate them using `attr_graphs/groundtruth.py`.
 
 ## Run ALAC
 ```
